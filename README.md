@@ -1,0 +1,1 @@
+# ros-socket-server-rgb-image
